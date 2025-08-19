@@ -1,7 +1,7 @@
 <a name="top"></a>
 # Remote Tech Jobs in the UK by Maestra (updated 2025-08-19)
 
-> This is a curated compilation of **38 UK Remote Tech Jobs** roles gathered over the last **3d**, sourced from premium job boards and verified for quality. Each listing includes direct application links and key details to streamline your job search.
+> This is a curated compilation of **45 UK Remote Tech Jobs** roles gathered over the last **3d**, sourced from premium job boards and verified for quality. Each listing includes direct application links and key details to streamline your job search.
 
 ---
 
@@ -31,12 +31,13 @@
 |---|---|---|---|
 | Photoroom | Senior iOS Engineer | Paris, Île-de-France | [Apply](https://jobs.ashbyhq.com/photoroom/fcd97e82-f5a0-4b83-8f26-409ba5e1ed01?utm_source=reddit&utm_medium=organic&utm_campaign=ukjobs) |
 | Colibri-digital | Core Network Architect | Remote | [Apply](https://nasstar.pinpointhq.com/en/postings/12ce7ec5-7497-40e8-86da-4d5663bfd3c8?utm_source=reddit&utm_medium=organic&utm_campaign=ukjobs) |
-| Eu Capgemitecp3 | Network Architect (Birmingham, GB) | Remote | [Apply](https://careers.capgemini.com/job/Birmingham-Network-Architect/1183876001/?utm_source=reddit&utm_medium=organic&utm_campaign=ukjobs) |
 | Com Commscope | Senior Systems Engineer (Winnersh, Other, United Kingdom) | Wokingham, England | [Apply](https://jobs.commscope.com/job/Winnersh-Senior-Systems-Engineer-Othe/1312332500/?utm_source=reddit&utm_medium=organic&utm_campaign=ukjobs) |
+| Torq | Customer Success Engineer - London | City of Westminster, England | [Apply](https://job-boards.greenhouse.io/torq/jobs/5623044004?utm_source=reddit&utm_medium=organic&utm_campaign=ukjobs) |
 | Githubinc | Senior Service Delivery Engineer | Dumfries and Galloway, Alba / Scotland | [Apply](https://globalcareers-githubinc.icims.com/jobs/4423/job?iis=Job+Board&iisn=HiringCafe&utm_source=reddit&utm_medium=organic&utm_campaign=ukjobs) |
 | Thoughtworks | Lead Data Engineer | Remote | [Apply](https://www.thoughtworks.com/careers/jobs/7174484?gh_jid=7174484&utm_source=reddit&utm_medium=organic&utm_campaign=ukjobs) |
 | Blackduck | Software Engineer | Remote | [Apply](https://job-boards.greenhouse.io/blackduck/jobs/4822383008?utm_source=reddit&utm_medium=organic&utm_campaign=ukjobs) |
 | Eu Learcorporp2 | Senior Data Scientist (Coventry, GB, CV6 5TP) | Remote | [Apply](https://jobs.lear.com/job/Coventry-Senior-Data-Scientist-CV6-5TP/1136788801/?utm_source=reddit&utm_medium=organic&utm_campaign=ukjobs) |
+| Thoughtworks | Senior Experience Designer | City of Westminster, England | [Apply](https://www.thoughtworks.com/careers/jobs/7177489?gh_jid=7177489&utm_source=reddit&utm_medium=organic&utm_campaign=ukjobs) |
 | 25667 5532 | Associate | Remote | [Apply](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25667&siteid=5532&PageType=JobDetails&jobid=5140997&utm_source=reddit&utm_medium=organic&utm_campaign=ukjobs) |
 | Wise | Senior Business Development Manager - LATAM | Remote | [Apply](https://jobs.smartrecruiters.com/Wise/744000076785370?utm_source=reddit&utm_medium=organic&utm_campaign=ukjobs) |
 | Nativeinstruments | Senior SEO Manager | City of Westminster, England | [Apply](https://www.native-instruments.com/en/career-center/career/8106868002?gh_jid=8106868002&utm_source=reddit&utm_medium=organic&utm_campaign=ukjobs) |
@@ -46,6 +47,8 @@
 | Fa-eqid-saasfaprod1.fa.ocs | AI Tech Development Manager | Remote | [Apply](https://fa-eqid-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/requisitions/job/96504?utm_source=reddit&utm_medium=organic&utm_campaign=ukjobs) |
 | Trade Nation | Product Owner | City of Westminster, England | [Apply](https://apply.workable.com/j/BA0D0A8EE0?utm_source=reddit&utm_medium=organic&utm_campaign=ukjobs) |
 | Trade Nation | Product Owner | City of Westminster, England | [Apply](https://apply.workable.com/j/FB06CED1A2?utm_source=reddit&utm_medium=organic&utm_campaign=ukjobs) |
+| Lightspeedhq | Product Marketing Manager (German and English speaking) | City of Westminster, England | [Apply](https://job-boards.greenhouse.io/lightspeedhq/jobs/7175545?utm_source=reddit&utm_medium=organic&utm_campaign=ukjobs) |
+| Lightspeedhq | Product Marketing Manager (German and English speaking) | Remote | [Apply](https://job-boards.greenhouse.io/lightspeedhq/jobs/7175544?utm_source=reddit&utm_medium=organic&utm_campaign=ukjobs) |
 | Astrazeneca-wd3-careers | AI Product Manager | Remote | [Apply](https://astrazeneca.wd1.myworkdayjobs.com/careers/job/UK---Macclesfield/AI-Product-Manager_R-232038?utm_source=reddit&utm_medium=organic&utm_campaign=ukjobs) |
 | Ironmountain-iron-mountain-jobs | Product Manager Horizontal Solutions | City of Westminster, England | [Apply](https://ironmountain.wd1.myworkdayjobs.com/iron-mountain-jobs/job/UK--London--4-More-London-Riverside/Product-Manager-Horizontal-Solutions_J0091540-1?utm_source=reddit&utm_medium=organic&utm_campaign=ukjobs) |
 | Thoughtbot | Product Manager-Remote (EMEA) | Lisboa, PT | [Apply](https://apply.workable.com/j/2A18EE41C3?utm_source=reddit&utm_medium=organic&utm_campaign=ukjobs) |
@@ -53,6 +56,8 @@
 | Gitlab | Customer Success Engineer, EMEA | Amsterdam, Noord-Holland | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8119031002?utm_source=reddit&utm_medium=organic&utm_campaign=ukjobs) |
 | E-careers | Cloud Computing Engineer - Trainee | Remote | [Apply](https://apply.workable.com/j/5FCE8F23E4?utm_source=reddit&utm_medium=organic&utm_campaign=ukjobs) |
 | Sonarsource | Developer Advocate | Remote | [Apply](https://jobs.lever.co/sonarsource/711b81bc-6472-40cc-a380-abcaaf05321d?utm_source=reddit&utm_medium=organic&utm_campaign=ukjobs) |
+| A3c41b8b71eff8c4 | Senior Software Engineer | Cheshire West and Chester, England | [Apply](https://www.ivanti.com/company/careers/job?gh_jid=6686805003&gh_jid=6686805003&utm_source=reddit&utm_medium=organic&utm_campaign=ukjobs) |
+| A3c41b8b71eff8c4 | Staff Software Engineer | Cheshire West and Chester, England | [Apply](https://www.ivanti.com/company/careers/job?gh_jid=6685730003&gh_jid=6685730003&utm_source=reddit&utm_medium=organic&utm_campaign=ukjobs) |
 | Skiller Whale | Lead Software Engineer (Platform) | Dumfries and Galloway, Alba / Scotland | [Apply](https://apply.workable.com/j/1498B0E494?utm_source=reddit&utm_medium=organic&utm_campaign=ukjobs) |
 | Just-wd3-just External | Senior Software Engineer | City of Westminster, England | [Apply](https://just.wd1.myworkdayjobs.com/just_external/job/London/Senior-Software-Engineer_R5849?utm_source=reddit&utm_medium=organic&utm_campaign=ukjobs) |
 | Photoroom | Senior Frontend Engineer, Web [Remote in Europe] | Remote | [Apply](https://jobs.ashbyhq.com/photoroom/545aac70-888a-438d-ac05-c4944c6503a4?utm_source=reddit&utm_medium=organic&utm_campaign=ukjobs) |
@@ -66,6 +71,8 @@
 | Fa-eqid-saasfaprod1.fa.ocs | Software Engineering Manager | Remote | [Apply](https://fa-eqid-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/requisitions/job/95239?utm_source=reddit&utm_medium=organic&utm_campaign=ukjobs) |
 | The Body Coach | Software Engineer (Typescript, Node.js, React) - Maternity cover | London, England | [Apply](https://apply.workable.com/j/01380891B6?utm_source=reddit&utm_medium=organic&utm_campaign=ukjobs) |
 | Stackexchange | Software Developer | Vogtei, Thüringen | [Apply](http://stackoverflow.co/company/work-here/7164714?gh_jid=7164714&utm_source=reddit&utm_medium=organic&utm_campaign=ukjobs) |
+| Climatex | Fullstack Engineer (Contract - Outside IR35) | Remote | [Apply](https://www.climate-x.com/careers?gh_jid=4657533101&utm_source=reddit&utm_medium=organic&utm_campaign=ukjobs) |
+| Exactera | Staff Full Stack Engineer | City of New York, New York | [Apply](https://job-boards.greenhouse.io/exactera/jobs/6685997003?utm_source=reddit&utm_medium=organic&utm_campaign=ukjobs) |
 | Kooth | Full-Stack Software Engineer Senior I | Dumfries and Galloway, Alba / Scotland | [Apply](https://apply.workable.com/j/6AFCE3A1AF?utm_source=reddit&utm_medium=organic&utm_campaign=ukjobs) |
 
 [Back to top](#top)
