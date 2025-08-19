@@ -1,7 +1,7 @@
 <a name="top"></a>
 # Remote Tech Jobs in the UK by Maestra (updated 2025-08-19)
 
-> This is a curated compilation of **38 Remote Tech Jobs in the UK** roles gathered over the last **3d**, sourced from premium job boards and verified for quality. Each listing includes direct application links and key details to streamline your job search.
+> This is a curated compilation of **38 UK Remote Tech Jobs** roles gathered over the last **3d**, sourced from premium job boards and verified for quality. Each listing includes direct application links and key details to streamline your job search.
 
 ---
 
@@ -25,7 +25,7 @@
 
 ---
 
-## 💻 Remote Tech Jobs In The Uk Roles
+## 💻 Uk Remote Tech Jobs Roles
 
 | Company | Role | Location | Application |
 |---|---|---|---|
